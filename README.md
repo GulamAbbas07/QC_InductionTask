@@ -1,14 +1,20 @@
 # Task-1
-Quantum Entanglement Simulation using Qiskit
+Quantum Entanglement Simulation using Qiskit  
+
 **Overview**
 <br>
-This project demonstrates a basic quantum computing concept — quantum entanglement — using the Qiskit framework.
+This project demonstrates a basic quantum computing concept — quantum entanglement — using the Qiskit framework.  
+
 A 2-qubit quantum circuit is created, entangled using a Hadamard and CNOT gate, and then simulated using AerSimulator. The results are measured and visualized using a histogram.
 <br>
-**Technologies Used**
-Python
-Qiskit
-Qiskit Aer Simulator
+**Technologies Used**  
+
+Python  
+
+Qiskit  
+
+Qiskit Aer Simulator  
+
 Matplotlib
 <br>
 **Concept**
